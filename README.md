@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋  I'm Soun Sean Kim
 
-This is Soun Sean Kim, an enthusiastic programmer who loves to create apps/webpages. Recently, I have been enjoying working with Flutter, but I also love other languages such as Python, Java and C. 
+An enthusiastic programmer who loves to create apps/webpages. Recently, I have been enjoying working with Flutter, but I also love other languages such as Python, Java and C. 
+
+# Skills and Experience
+* Flutter
+* Vue
+* HTML, CSS, JS
+* Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukim2406)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukim2406)](https://github.com/anuraghazra/github-readme-stats)
