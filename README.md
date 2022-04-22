@@ -1,8 +1,8 @@
-### Hi there 👋  I'm Soun Sean Kim
+## Hi there 👋  I'm Soun Sean Kim
 
 An enthusiastic programmer who loves to create apps/webpages. Recently, I have been enjoying working with Flutter, but I also love other languages such as Python, Java and C. 
 
-# Skills and Experience
+### Skills and Experience
 * Flutter
 * Vue
 * HTML, CSS, JS
