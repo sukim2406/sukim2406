@@ -2,7 +2,8 @@
 
 This is Soun Sean Kim, an enthusiastic programmer who loves to create apps/webpages. Recently, I have been enjoying working with Flutter, but I also love other languages such as Python, Java and C. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukim2406)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sukim2406)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukim2406)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukim2406)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **sukim2406/sukim2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
