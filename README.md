@@ -1,5 +1,7 @@
 ## Hi there 👋  I'm Soun Sean Kim
 
+# [For more info, sounseankim.com](sounseankim.com)
+
 An enthusiastic programmer who loves to create apps/webpages. Recently, I have been enjoying working with Flutter, but I also love other languages such as Python, Java and C. 
 
 ### Skills and Experience
